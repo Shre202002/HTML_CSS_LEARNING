@@ -1,0 +1,25 @@
+.parent{
+			height: 65px; 
+			width: 100%; 
+			background: #493a3a;
+		}
+		#child-1{
+			height:50px;
+			width:5%;
+			text-align:center;float: left;
+			 border:  2px solid #7f7c7c
+		}
+		.child-2{
+			height:50px;
+			width:40%;
+			float: left;
+			 border-right: 2px solid  #7f7c7c;
+		}
+		.children{
+			height:50px;
+			width:19.7%;
+			text-align:right;
+			float: left;
+			border-right: 2px solid  #7f7c7c;
+			color:  white;
+		}

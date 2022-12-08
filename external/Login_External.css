@@ -1,0 +1,50 @@
+body{
+			background: url(images/25.jpg)no-repeat center center fixed;
+			background-size: cover;
+		}
+		.parent{
+			 
+			 float: left; 
+			   position: absolute; 
+			     top: 10%; 
+			      left:33%;
+			       height: 350px; 
+			        width: 35%;
+		}
+		.data{
+			height:30px;
+			 width:75%;
+			  color:red;
+		}
+		.submit{
+			height:30px;
+			 width:40%;
+			  cursor: pointer;
+		}
+		.Space-hr{
+			height:20px; 
+			 width: 20%;
+			  float: left;
+		}
+		.line{
+			height:20px; 
+			 width: 60%;  
+			  float:left
+		}
+		.image-section{
+			height: 50px;
+			 width: 100%; 
+			 text-align: center; 
+		}
+		.images{
+			height: 50px;
+			 width: 33%; 
+			 float:left;
+		}
+		.Ragister{
+			height: 50px;
+			  width: 100;
+		}
+		h1{
+			color: white;
+		}

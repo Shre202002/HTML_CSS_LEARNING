@@ -1,0 +1,89 @@
+body{
+		background-color: gray;
+		background-image: url("images/5.jpg");
+	}
+	.First{
+		height: 500px;
+		 width: 100%;
+		  background-color: dimgray;border: 5px solid white;
+	}
+	.Second{
+		height: 310px;
+		 width: 100%;"
+	}
+	.Second-part{
+		height: 300px;
+		 width: 49%; 
+		  background-color: gray;
+		   float: left; 
+		    border:5px solid yellow ;
+	}
+	.third{
+		height: 300px;
+		 width:100%;
+	}
+	.third-part{
+		height:300px; 
+		 width: 19%; 
+		  background-color:pink;
+		   float: left;
+		    border:5px solid brown;
+	}
+	.fourth{
+		height:200px;
+		 width:100%;
+		  background-color: burlywood;
+	}
+	.fourth-part1{
+		height:160px;
+		 width: 24%;
+		  background-color: green;
+		   float: left;
+		    margin-top: 13px;
+		     margin-left: 20px;
+		      padding-top: 10px;
+		       padding-left: 10px;
+	}
+	.fourth-part2{
+		height:160px;
+		 width: 24%;
+		  background-color: green;
+		   float: left;
+		    margin-top: 13px;
+		     padding-top: 10px;
+		      padding-right: 10px;
+	}
+	.fourth-part3{
+		 height:200px;
+		  width: 47.65%;
+		   float: left;
+		    margin-left: 20px ;
+		     padding-top:10px;
+		      padding-left: 5px;
+		      padding-bottom: 30px;
+	}
+	.fifth{
+		height:300px;
+		 width:100% ;
+		  background-color:pink;
+		   padding-top: 10px;
+		    padding-bottom: 10px;
+	}
+	.fifth-part{
+		height:300px;
+		 width: 19.2%;
+		  margin-left:10px;
+		   float: left;
+	}
+	.sixth{
+		height: 300px;
+		 width: 100%;
+		  background-color:gray;
+		   border: 2px solid royalblue;
+	}
+	.sixth-part{
+		height: 300px;
+		 width: 24%;
+		  float:left;
+		   margin-left:10px;
+	}
